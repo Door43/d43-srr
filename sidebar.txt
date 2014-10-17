@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[srr:home|Door43 (srr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-srr|d43-srr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-srr/archive/master.zip|d43-srr.zip]]
+
+**Recent Changes**
+{{changes>ns = srr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/srr|Ethnologue data]]
+
